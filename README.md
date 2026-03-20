@@ -1,2 +1,2 @@
 # RTA_JN
-Repozytorium na zajęcia RTA
+Repozytorium na zajęcia Real Time Analysis
